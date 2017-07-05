@@ -1,0 +1,20 @@
+{
+    "name": "uuf6429/live-yaml-to-config",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Sciberras",
+            "email": "christian@sciberras.me"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "source"
+        }
+    },
+    "require": {
+        "symfony/yaml": "^3.3",
+        "symfony/config": "^3.3"
+    }
+}
